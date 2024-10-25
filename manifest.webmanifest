@@ -1,0 +1,48 @@
+{
+  "name": "Furia de Titãs",
+  "short_name": "Titãs",
+  "description": "Jogo lendário on-line gratuito para o seu celular",
+  "start_url": "/?channelId=45621",
+  "scope": "/",
+  "lang": "pt-BR",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#000000",
+  "background_color": "#303030",
+  "icons": [
+    {
+      "src": "/images/logo/56x56.png",
+      "sizes": "56x56",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/logo/112x112.png",
+      "sizes": "112x112",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/logo/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/logo/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/images/logo/512x512-2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": [
+    "games",
+    "entertainment"
+  ]
+}
